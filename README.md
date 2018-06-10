@@ -1,5 +1,5 @@
 # EmotionalChattingBot
-This program is a course project(Affective Computing) which contains emotional analyze as well as response.
+This program is a course project(Affective Computing) which contains emotional analysis as well as response.
 
 Running condition:
 
